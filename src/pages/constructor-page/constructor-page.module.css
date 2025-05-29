@@ -1,0 +1,6 @@
+.constructor__container {
+  display: flex;
+  column-gap: 40px;
+  justify-content: center;
+  height: 700px;
+}

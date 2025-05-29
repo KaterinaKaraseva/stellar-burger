@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\e2e",
+    "\\cypress\\fixtures",
+    "\\cypress\\support",
+    "\\public",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\services",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\cypress\\e2e\\constructor.cy.ts",
+  "PreviewInSolutionExplorer": false
+}
