@@ -1,2 +1,4 @@
 # stellar-burger
-  Запустить сервер: ```npm run start```
+
+```npm i``` or ```npm install```
+```npm run start```
